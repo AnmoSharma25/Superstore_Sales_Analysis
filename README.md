@@ -32,7 +32,7 @@ Specialized in time series analysis for precise forecasting and interactive dash
 
 ## Detailed Project Insights
 
-For a comprehensive report with in-depth insights, please refer to [Superstore Sales Detailed Insights](Superstore_Sales_Detailed_Insights,pdf).
+For a comprehensive report with in-depth insights, please refer to [Superstore Sales Detailed Insights](Superstore_Sales_Detailed_Insights.pdf).
 
 ## Dashboard Overview
 
