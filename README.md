@@ -78,14 +78,11 @@ Incorporated data analysis techniques, specializing in time series analysis, to 
 8. Preferred Shipping Mode:
    - The majority of customers (58%) opted for Standard class shipping. This mode also generated the highest sales revenue at $0.91 million. The order of preference for shipping modes is: Standard class, Second class, First class, and Same day.
 
+## Files
 
-## Screenshots
-
-[Include screenshots or GIFs of your PowerBI dashboard, if available.]
-
-## How to Use
-
-[Provide instructions on how to download and run the PowerBI file.]
+- [Superstore Sales Dataset (CSV)](data/SuperStore_Sales_Dataset.csv)
+- [Superstore PowerBI Dashboard](dashboard/Superstore_Dashboard.pbix)
+- [Superstore Dashboard PDF](dashboard/Superstore_Dashboard.pdf)
 
 ## Author
 
