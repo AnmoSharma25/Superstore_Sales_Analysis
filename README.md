@@ -32,7 +32,7 @@ Specialized in time series analysis for precise forecasting and interactive dash
 
 ## Detailed Project Insights
 
-For a comprehensive report with in-depth insights, please refer to [Superstore Sales Detailed Insights PDF](Superstore_Sales_Insights.pdf).
+For a comprehensive report with in-depth insights, please refer to [Superstore Sales Detailed Insights PDF](Superstore_Sales_Detailed_Insights,pdf).
 
 ## Dashboard Overview
 
@@ -42,7 +42,8 @@ For a visual representation of the sales analysis, you can explore the Superstor
 
 ## The Dashboard
 
-- [PowerBI Dashboard](Superstore_Sales_Project_Dashboard.pbix)
+To explore the interactive dashboard, simply download the PowerBI file provided below:
+[PowerBI Dashboard](Superstore_Sales_Project_Dashboard.pbix)
 
 ## Author
 
