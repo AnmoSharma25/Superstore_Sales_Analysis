@@ -12,8 +12,8 @@ You can access the dataset file [here](Data/SuperStore_Sales_Dataset.csv).
 Uncover trends, create interactive PowerBI dashboard, and provide accurate sales forecasting.
 
 ### Tools Utilized
-- PowerBI
-- Excel
+- Microsoft Power BI
+- Microsoft Excel
 
 ## Project Details
 
