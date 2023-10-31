@@ -80,7 +80,7 @@ Incorporated data analysis techniques, specializing in time series analysis, to 
 
 ## Files
 
-- [Superstore Sales Dataset (CSV)](data/SuperStore_Sales_Dataset.csv)
+- [Superstore Sales Dataset (CSV)](Data/SuperStore_Sales_Dataset.csv)
 - [Superstore PowerBI Dashboard](dashboard/Superstore_Dashboard.pbix)
 - [Superstore Dashboard PDF](dashboard/Superstore_Dashboard.pdf)
 
