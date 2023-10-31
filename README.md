@@ -81,8 +81,8 @@ Incorporated data analysis techniques, specializing in time series analysis, to 
 ## Files
 
 - [Superstore Sales Dataset (CSV)](Data/SuperStore_Sales_Dataset.csv)
-- [Superstore PowerBI Dashboard](dashboard/Superstore_Dashboard.pbix)
-- [Superstore Dashboard PDF](dashboard/Superstore_Dashboard.pdf)
+- [Superstore PowerBI Dashboard](Superstore_Sales_Project_Dashboard.pbix)
+- [Superstore Dashboard PDF](SuperStore_Sales_Project.pdf)
 
 ## Author
 
