@@ -6,6 +6,7 @@ A comprehensive analysis of sales data from a superstore.
 
 ### Dataset
 Key attributes include Order ID, Order Date, Ship Mode, Customer Details, Product Information, Sales, and Payment Method.
+You can access the dataset file [here](Data/SuperStore_Sales_Dataset.csv).
 
 ### Objective
 Uncover trends, create interactive PowerBI dashboard, and provide accurate sales forecasting.
@@ -29,11 +30,19 @@ Specialized in time series analysis for precise forecasting and interactive dash
 - Preferred Payment: Cash on delivery
 - Highest Sales Region: West (33%)
 
-## Files
+## Detailed Project Insights
 
-- [Sales Dataset (CSV)](Data/SuperStore_Sales_Dataset.csv)
+For a comprehensive report with in-depth insights, please refer to [Superstore_Sales_Detailed Insights PDF](Superstore_Sales_Insights.pdf).
+
+## Dashboard Overview
+
+[Superstore Dashboard PDF](SuperStore_Sales_Project.pdf)
+
+For a visual representation of the sales analysis, you can explore the Superstore Sales Dashboard in PDF format. This PDF provides a snapshot of the key insights and visuals generated from the analysis.
+
+## The Dashboard
+
 - [PowerBI Dashboard](Superstore_Sales_Project_Dashboard.pbix)
-- [Dashboard PDF](SuperStore_Sales_Project.pdf)
 
 ## Author
 
